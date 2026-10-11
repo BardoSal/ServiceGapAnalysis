@@ -12,7 +12,7 @@ El análisis genera una distribución raster de población y la cruza con buffer
 
 ## Visualización
 
-![Distribución poblacional estimada y proximidad a escuelas en Arriaga, Chiapas](assets/population-school-coverage-07009.png)
+![Distribución poblacional estimada y proximidad a escuelas en Arriaga, Chiapas](assets/output.png)
 
 La figura muestra la distribución estimada de población y las escuelas identificadas en OpenStreetMap con sus áreas de proximidad de 500 m. La escala de color se limita al percentil 99.9 para facilitar la lectura visual; los datos raster originales no se modifican.
 
