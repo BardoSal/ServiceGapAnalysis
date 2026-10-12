@@ -1,6 +1,6 @@
 # Análisis de brechas de servicios
 
-Análisis geoespacial para estimar cómo la cantidad de población que se encuentra a una distancia de hasta 500 m de las escuelas registradas en OpenStreetMap.
+Análisis geoespacial para estimar la cantidad de población que se encuentra a una distancia de hasta 500 m de las escuelas registradas en OpenStreetMap.
 
 Este flujo de trabajo combina datos censales por manzana (INEGI), superficie construida satelital (GHSL) y equipamiento educativo (OpenStreetMaps) para construir una primera medida de proximidad entre población y servicios. El área de estudio se controla con una clave municipal de cinco dígitos; el valor inicial del notebook es `07009` que corresponde al municipio de Arriaga, Chiapas.
 
